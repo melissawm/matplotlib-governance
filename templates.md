@@ -16,7 +16,7 @@ Subject: Matplotlib commit rights
 <name>,
 
 
-We would like to invite you to join the Matplotlib organization on github with
+We would like to invite you to join the Matplotlib organization on GitHub with
 commit rights to the main Matplotlib repository! (you should have the GH emails
 in your inbox). If you are also on the Matplotlib Discourse forum, we will add
 you to the "maintainers" group there as well.
@@ -25,7 +25,7 @@ Please see https://matplotlib.org/devel/coding_guide.html#detailed-guidelines
 and remember to be kind during your reviews.
 
 In addition to the discussions on GitHub and Discourse, we have weekly open
-developer calls that you are invited to join (links below) on Thurdays at
+developer calls that you are invited to join (links below) on Thursdays at
 <MEETING TIME> UTC <(their timezone if you know it)>.
 
 If you accept, welcome (formally) to the team!
@@ -65,7 +65,7 @@ Subject: Matplotlib triage rights
 <name>,
 
 
-We would like to invite you to join the Matplotlib organization on github with
+We would like to invite you to join the Matplotlib organization on GitHub with
 triage rights to the main Matplotlib repository! (you should have the GH emails
 in your inbox). If you are also on the Matplotlib Discourse forum, we will add
 you to the "triage" group there as well.
@@ -79,7 +79,7 @@ Please see https://matplotlib.org/devdocs/devel/triage.html and let us know if
 you have any questions about the process.
 
 In addition to the discussions on GitHub and Discourse, we have weekly open
-developer calls that you are invited to join (links below) on Thurdays at
+developer calls that you are invited to join (links below) on Thursdays at
 <MEETING TIME> UTC <(their timezone if you know it)>. 
 
 If you accept, welcome (formally) to the team!
