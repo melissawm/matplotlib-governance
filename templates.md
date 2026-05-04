@@ -18,7 +18,7 @@ Subject: Matplotlib commit rights
 
 We would like to invite you to join the Matplotlib organization on GitHub with
 commit rights to the main Matplotlib repository! (you should have the GH emails
-in your inbox). If you are also on the Matplotlib Discourse forum, we will add
+in your GitHub inbox). If you are also on the Matplotlib Discourse forum, we will add
 you to the "maintainers" group there as well.
 
 Please see https://matplotlib.org/devel/coding_guide.html#detailed-guidelines
@@ -53,7 +53,7 @@ join the Matplotlib organization as a committer to core repository!
 
 This is a template for writing emails to invite people to join the organization.
 
-This should be sent out concurrently with the invitation.
+This should be sent out concurrently with the GitHub invitation.
 
 CC the steering council.
 
@@ -67,7 +67,7 @@ Subject: Matplotlib triage rights
 
 We would like to invite you to join the Matplotlib organization on GitHub with
 triage rights to the main Matplotlib repository! (you should have the GH emails
-in your inbox). If you are also on the Matplotlib Discourse forum, we will add
+in your Github inbox). If you are also on the Matplotlib Discourse forum, we will add
 you to the "triage" group there as well.
 
 This will allow you to help with triaging issues and pull requests, but not to
@@ -92,7 +92,7 @@ zoom: https://zoom.us/j/384435716?pwd=WFpxVWxoYXArTDFzN1lWaHNoOE8xZz09
 
 ## Announce new triager
 
-In "Announcements" section of discourse
+In the "Announcements" section of discourse
 
 ```md
 Welcome <name> to the Matplotlib organization
