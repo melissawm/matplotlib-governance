@@ -67,7 +67,7 @@ Subject: Matplotlib triage rights
 
 We would like to invite you to join the Matplotlib organization on GitHub with
 triage rights to the main Matplotlib repository! (you should have the GH emails
-in your Github inbox). If you are also on the Matplotlib Discourse forum, we will add
+in your GitHub inbox). If you are also on the Matplotlib Discourse forum, we will add
 you to the "triage" group there as well.
 
 This will allow you to help with triaging issues and pull requests, but not to
